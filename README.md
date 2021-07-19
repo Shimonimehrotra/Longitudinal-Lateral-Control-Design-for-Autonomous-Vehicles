@@ -13,7 +13,4 @@ resume when a light turns to green from red. There are 6 different levels of aut
 wants to design a new prototype of its driverless car. This would be a car that has no steering
 wheel, no gas or brake pedals and thus is 100% autonomous.
 
-In this project we will develop control code to navigate a self-driving car around a racetrack in
-the CARLA simulation environment. We will construct longitudinal and lateral dynamic models
-for a vehicle and create controllers that regulate speed and path tracking performance using
-Python.
+In this project we developed control code to navigate a self-driving car around a racetrack in the CARLA simulation environment. We constructed the longitudinal and lateral dynamic models for a vehicle and created controllers that regulate speed and path tracking performance using Python.
